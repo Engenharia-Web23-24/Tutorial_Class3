@@ -1,4 +1,4 @@
-﻿namespace Aula03_EWPL1.Models
+﻿namespace Class03.Models
 {
     public class DocFiles
     {

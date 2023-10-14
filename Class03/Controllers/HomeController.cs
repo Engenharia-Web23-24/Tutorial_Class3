@@ -1,8 +1,8 @@
-﻿using Aula03_EWPL1.Models;
+﻿using Class03.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace Aula03_EWPL1.Controllers
+namespace Class03.Controllers
 {
     public class HomeController : Controller
     {
